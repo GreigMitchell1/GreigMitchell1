@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @GreigMitchell1
-- 👀 I’m interested in Automation, Powershell and Python
+- 👋 Hi, I’m @GreigMitchell
+- 👀 I’m interested in Automation, Powershell & Python
+- 👨‍🏫 Scottish STEM ambassador, Running Code Clubs in and around Glasgow
+- 🤖 MartyRobot SME 
 - 📫 How to reach me: greigmitchell@me.com
 
 <!---
